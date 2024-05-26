@@ -71,7 +71,7 @@ body::before {
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="white">いつもの羽黒山からさらに北上、県民の森まで行きました！</span></h3>
-<a href="https://torokoid.github.io/2024May_Kenmin_forest/20240519_000.png" data-lightbox="abc"><img src="https://torokoid.github.io/2024May25_Kenmin_forest/20240525_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024May_Kenmin_forest/20240519_000.png" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_Kenmin_forest/20240519_000.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">平野部は30℃近くまであがってた気温も、ここまで来るとかなり涼しくなります！</span></h3>
 <a href="20240525_014.JPG" data-lightbox="abc"><img src="20240525_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_015.JPG" data-lightbox="abc"><img src="20240525_015.JPG" alt="サンプル画像" width="900" /></a>
