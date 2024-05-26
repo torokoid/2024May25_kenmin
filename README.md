@@ -48,7 +48,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024May25_kenmin/20240525_021.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024May25_kenmin/20240525_042.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
