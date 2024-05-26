@@ -77,6 +77,7 @@ body::before {
 <a href="20240525_015.JPG" data-lightbox="abc"><img src="20240525_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_016.JPG" data-lightbox="abc"><img src="20240525_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_017.JPG" data-lightbox="abc"><img src="20240525_017.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">いつもの羽黒山が、右側に見下せます。</span></h3>
 <a href="20240525_018.JPG" data-lightbox="abc"><img src="20240525_018.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">山の上では小鳥の囀りが響き渡って、都会の喧騒を忘れさせてくれました</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cPaSjZt5Abs?si=eJjAXYaOkerFmSrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
