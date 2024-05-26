@@ -63,7 +63,7 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
-<p align="left"> <img src="kenmin2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="kenmin3.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 <h1><span class="yellow"><marquee behavior="left">!!! 2024年5月25日(土)暑くなってきたので、お昼過ぎにバイクで県民の森に登りました !!!</marquee></span></h1>
