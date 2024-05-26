@@ -82,6 +82,7 @@ body::before {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cPaSjZt5Abs?si=eJjAXYaOkerFmSrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h3><span class="white">今回も森林展示館にお邪魔します。</span></h3>
 <a href="https://torokoid.github.io/2024May_Kenmin_forest/20240519_010.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_Kenmin_forest/20240519_010.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">前回よく見なかった展示品もちょっと観ました。</span></h3>
 <a href="20240525_019.JPG" data-lightbox="abc"><img src="20240525_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_020.JPG" data-lightbox="abc"><img src="20240525_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_021.JPG" data-lightbox="abc"><img src="20240525_021.JPG" alt="サンプル画像" width="900" /></a>
@@ -103,6 +104,11 @@ body::before {
 <a href="20240525_037.JPG" data-lightbox="abc"><img src="20240525_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_038.JPG" data-lightbox="abc"><img src="20240525_038.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_039.JPG" data-lightbox="abc"><img src="20240525_039.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">中腹の駐車場から、森林展示館までの下りの動画です。</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkBXMSVESyI?si=r21x4bcj5NOo9zt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h3><span class="white">森林展示館から、山道を抜け切るまでの動画です。</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTVwxlVm77U?si=p4vKUa_w5b9qgpv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h3><span class="white">この程度の走り方では、タイヤの使い方もまだまだ余裕ですが、調子に乗って飛ばしすぎると痛い目に遭うのでこの位で・・・。</span></h3>
 <a href="20240525_040.JPG" data-lightbox="abc"><img src="20240525_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_041.JPG" data-lightbox="abc"><img src="20240525_041.JPG" alt="サンプル画像" width="900" /></a>
 
