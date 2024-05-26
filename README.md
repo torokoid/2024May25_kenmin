@@ -72,12 +72,14 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="white">いつもの羽黒山からさらに北上、県民の森まで行きました！</span></h3>
 <a href="https://torokoid.github.io/2024May_Kenmin_forest/20240519_000.png" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_Kenmin_forest/20240519_000.png" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">平野部は30℃近くまであがってた気温も、ここまで来るとかなり涼しくなります！</span></h3>
 <a href="20240525_014.JPG" data-lightbox="abc"><img src="20240525_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_015.JPG" data-lightbox="abc"><img src="20240525_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_016.JPG" data-lightbox="abc"><img src="20240525_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_017.JPG" data-lightbox="abc"><img src="20240525_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_018.JPG" data-lightbox="abc"><img src="20240525_018.JPG" alt="サンプル画像" width="900" /></a>
-
+<h3><span class="white">山の上では小鳥の囀りが響き渡って、都会の喧騒を忘れさせてくれました</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPaSjZt5Abs?si=eJjAXYaOkerFmSrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h3><span class="white">今回も森林展示館にお邪魔します。</span></h3>
 <a href="https://torokoid.github.io/2024May_Kenmin_forest/20240519_010.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024May_Kenmin_forest/20240519_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240525_019.JPG" data-lightbox="abc"><img src="20240525_019.JPG" alt="サンプル画像" width="900" /></a>
